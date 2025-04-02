@@ -42,4 +42,4 @@ This project focuses on developing a **3D Convolutional Neural Network (3D CNN)*
   - [ImageNet Class Labels](https://gist.github.com/yrevar/942d3a0ac09ec9e5eb3a)
 
 ## Contact
-Created by [@yourgithubusername] - feel free to contact me for further inquiries or collaboration opportunities!
+Created by [@SaadTeli] - feel free to contact me for further inquiries or collaboration opportunities!
